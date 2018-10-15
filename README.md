@@ -1,19 +1,15 @@
 # 2018-11-bangkok: T2TRG Bangkok work meeting
 
-When:
-: November 9, 2018 (IETF103 Friday)
+When: November 9, 2018 (IETF103 Friday)
 
-Where: 
-: Bangkok Marriott Marquis Queen's Park Hotel (IETF103 meeting
+Where: Bangkok Marriott Marquis Queen's Park Hotel (IETF103 meeting
   hotel), room TBD (please watch [sidemeetings][] for updates)
 
 [sidemeetings]: https://trac.ietf.org/trac/ietf/meeting/wiki/103sidemeetings#FRIDAY
 
-Remote participation: 
-: [https://jitsi.tools.ietf.org/t2trg-bangkok](https://jitsi.tools.ietf.org/t2trg-bangkok) (Best-effort)
+Remote participation: [https://jitsi.tools.ietf.org/t2trg-bangkok](https://jitsi.tools.ietf.org/t2trg-bangkok) (Best-effort)
 
-Real-time notes: 
-: <https://etherpad.tools.ietf.org/p/notes-2018-bangkok-t2trg>
+Real-time notes: <https://etherpad.tools.ietf.org/p/notes-2018-bangkok-t2trg>
 
 <!-- Registration: [https://goo.gl/forms/Xu7ZGq7igzyDOf8U2](https://goo.gl/forms/Xu7ZGq7igzyDOf8U2) -->
 
