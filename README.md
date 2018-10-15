@@ -22,13 +22,15 @@ slot, or want to run a breakout, please email the [chairs](mailto:t2trg-chairs@i
 
 ## Friday November 9: Overall agenda
 
-|  Time | Presenter(s) | Topic                                          |
-|-------|--------------|------------------------------------------------|
-|  9:00 | Chairs       | Welcome & Short Introduction. T2TRG/IETF work. |
-|  9:05 | Various      | Plenary (several talks being scheduled)        |
-| 10:00 | Various      | Breakouts (see below)                          |
-| 12:00 |              | Plenary (discussion, next steps)               |
-| 13:20 |              | meeting ends                                   |
+|  Time | Presenter(s)     | Topic                                          |
+|-------|------------------|------------------------------------------------|
+|  9:00 | Chairs           | Welcome & Short Introduction. T2TRG/IETF work. |
+|  9:05 | Various          | Plenary (several talks being scheduled)        |
+|       | Erik Nordmark    | TBD                                            |
+|       | Oscar / Thorsten | [Automated IoT Security][auto-iot-sec]         |
+| 10:00 | Various          | Breakouts (see below)                          |
+| 12:00 |                  | Plenary (discussion, next steps)               |
+| 13:20 |                  | meeting ends                                   |
 
 
 ## Friday November 9: Breakouts
@@ -37,7 +39,6 @@ slot, or want to run a breakout, please email the [chairs](mailto:t2trg-chairs@i
 |-------------|------------------|----------------|----------------------------------------|
 | 10:00–12:00 | COIN people      | Boromphimarn 3 | COIN proposed RG (separate meeting)    |
 | 10:00–12:00 | TBD              | TBD            | Next steps in IoT security             |
-|             | Oscar / Thorsten |                | [Automated IoT Security][auto-iot-sec] |          
 | 10:00–12:00 |      TBD         | TBD            | TBD                                    |
 
 [coral]: https://tools.ietf.org/html/draft-hartke-t2trg-coral-05
