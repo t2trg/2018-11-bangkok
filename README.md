@@ -3,7 +3,7 @@
 When: November 9, 2018 (IETF103 Friday)
 
 Where: Bangkok Marriott Marquis Queen's Park Hotel (IETF103 meeting
-  hotel), room TBD (please watch [sidemeetings][] for updates)
+  hotel), room Boromphimarn 4 (please watch [sidemeetings][] for updates)
 
 [sidemeetings]: https://trac.ietf.org/trac/ietf/meeting/wiki/103sidemeetings#FRIDAY
 
@@ -38,7 +38,7 @@ slot, or want to run a breakout, please email the [chairs](mailto:t2trg-chairs@i
 |  Time       | Leader(s))       | Where          | Topic                                  |
 |-------------|------------------|----------------|----------------------------------------|
 | 10:00–12:00 | COIN people      | Boromphimarn 3 | COIN proposed RG (separate meeting)    |
-| 10:00–12:00 | TBD              | TBD            | Next steps in IoT security             |
+| 10:00–12:00 | TBD              | Boromphimarn 4  | Next steps in IoT security             |
 | 10:00–12:00 |      TBD         | TBD            | TBD                                    |
 
 [coral]: https://tools.ietf.org/html/draft-hartke-t2trg-coral-05
