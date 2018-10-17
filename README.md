@@ -37,12 +37,13 @@ slot, or want to run a breakout, please email the [chairs](mailto:t2trg-chairs@i
 
 ## Friday November 9: Breakouts
 
-|  Time       | Leader(s))       | Where          | Topic                                  |
-|-------------|------------------|----------------|----------------------------------------|
-| 10:00–12:00 | COIN people      | Boromphimarn 3 | COIN proposed RG (separate meeting)    |
-| 10:00–12:00 | TBD              | Boromphimarn 4  | Next steps in IoT security             |
-| 10:00–12:00 |      TBD         | TBD            | TBD                                    |
+| Time        | Leader(s))  | Where          | Topic                                   |
+|-------------|-------------|----------------|-----------------------------------------|
+| 10:00–12:00 | COIN people | Boromphimarn 3 | [COIN][] proposed RG (separate meeting) |
+| 10:00–12:00 | TBD         | Boromphimarn 4 | Next steps in IoT security              |
+| 10:00–12:00 | TBD         | TBD            | TBD                                     |
 
+[COIN]: https://trac.ietf.org/trac/irtf/wiki/coin
 [coral]: https://tools.ietf.org/html/draft-hartke-t2trg-coral-05
 [WISHI]: http://wishi.space/ "Work on IoT Semantic/Hypermedia Interoperability | wishi"
 [auto-iot-sec]: https://tools.ietf.org/html/draft-garciamorchon-t2trg-automated-iot-security-00
