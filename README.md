@@ -13,7 +13,9 @@ Real-time notes: <https://etherpad.tools.ietf.org/p/notes-2018-bangkok-t2trg>
 
 <!-- Registration: [https://goo.gl/forms/Xu7ZGq7igzyDOf8U2](https://goo.gl/forms/Xu7ZGq7igzyDOf8U2) -->
 
-Please have a look at: [https://github.com/t2trg/2018-11-bangkok](https://github.com/t2trg/2018-11-bangkok)
+For latest updates, please have a look at: [https://github.com/t2trg/2018-11-bangkok](https://github.com/t2trg/2018-11-bangkok)
+
+For other T2TRG activites at IETF 103 see also [WISHI Hackathon](https://github.com/t2trg/wishi/wiki/Hackathon-Planning) and [T2TRG Summary meeting](https://github.com/t2trg/2018-ietf103).
 
 # Agenda
 
