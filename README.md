@@ -32,12 +32,13 @@ slot, or want to run a breakout, please email the [chairs](mailto:t2trg-chairs@i
 |       | Oscar / Thorsten | [Automated IoT Security][auto-iot-sec]         |
 | 10:00 | Various          | Breakouts (see below)                          |
 | 12:00 |                  | Plenary (discussion, next steps)               |
+|       |                  | Consolidating results from the hypermedia discussions |
 | 13:20 |                  | meeting ends                                   |
 
 
 ## Friday November 9: Breakouts
 
-| Time        | Leader(s))  | Where          | Topic                                   |
+| Time        | Leader(s)   | Where          | Topic                                   |
 |-------------|-------------|----------------|-----------------------------------------|
 | 10:00–12:00 | COIN people | Boromphimarn 3 | [COIN][] proposed RG (separate meeting) |
 | 10:00–12:00 | TBD         | Boromphimarn 4 | Next steps in IoT security              |
