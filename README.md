@@ -1,6 +1,6 @@
 # 2018-11-bangkok: T2TRG Bangkok work meeting
 
-When: November 9, 2018 (IETF103 Friday)
+When: November 9, 2018 (IETF103 Friday), 9:00 - 13:20 
 
 Where: Bangkok Marriott Marquis Queen's Park Hotel (IETF103 meeting
   hotel), room Boromphimarn 4 (please watch [sidemeetings][] for updates)
