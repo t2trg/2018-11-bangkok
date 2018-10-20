@@ -29,7 +29,7 @@ slot, or want to run a breakout, please email the [chairs](mailto:t2trg-chairs@i
 |  9:00 | Chairs           | Welcome & Short Introduction. T2TRG/IETF work. |
 |  9:05 | Various          | Plenary (several talks being scheduled)        |
 |       | Erik Nordmark    | Computing at the Edge                          |
-|       | Oscar / Thorsten | [Automated IoT Security][auto-iot-sec]         |
+|       | Thorsten Dahm    | [Automated IoT Security][auto-iot-sec]         |
 | 10:00 | Various          | Breakouts (see below)                          |
 | 12:00 |                  | Plenary (discussion, next steps)               |
 |       |                  | Consolidating results from the hypermedia discussions |
