@@ -47,4 +47,4 @@ slot, or want to run a breakout, please email the [chairs](mailto:t2trg-chairs@i
 [COIN]: https://trac.ietf.org/trac/irtf/wiki/coin
 [coral]: https://tools.ietf.org/html/draft-hartke-t2trg-coral-05
 [WISHI]: http://wishi.space/ "Work on IoT Semantic/Hypermedia Interoperability | wishi"
-[auto-iot-sec]: https://tools.ietf.org/html/draft-garciamorchon-t2trg-automated-iot-security-00
+[auto-iot-sec]: https://tools.ietf.org/html/draft-garciamorchon-t2trg-automated-iot-security-01
