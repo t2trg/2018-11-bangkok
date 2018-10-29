@@ -27,7 +27,7 @@ slot, or want to run a breakout, please email the [chairs](mailto:t2trg-chairs@i
 |  Time | Presenter(s)     | Topic                                          |
 |-------|------------------|------------------------------------------------|
 |  8:30 | Chairs           | Welcome & Short Introduction. T2TRG/IETF work. |
-|  8:35 | Various          | Plenary (several talks being scheduled)        |
+|  8:40 | Various          | Plenary                                        |
 |       | Jungha Hong      | [Problem Statement of IoT integrated with Edge Computing][t2trg-iot-edge-prob] |
 |       | Erik Nordmark    | [Computing at the Edge][t2trg-computing-edge]  |
 |       | Thorsten Dahm    | [Automated IoT Security][auto-iot-sec]         |
@@ -35,6 +35,7 @@ slot, or want to run a breakout, please email the [chairs](mailto:t2trg-chairs@i
 |  9:50 |                  | Break for breakouts                            |
 | 10:00 | Various          | Breakouts (see below)                          |
 | 12:00 |                  | Plenary (discussion, next steps)               |
+|       |                  | Consolidating results from the breakouts       |
 |       |                  | Consolidating results from the hypermedia discussions |
 | 13:20 |                  | meeting ends                                   |
 
