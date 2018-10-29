@@ -26,8 +26,9 @@ slot, or want to run a breakout, please email the [chairs](mailto:t2trg-chairs@i
 
 |  Time | Presenter(s)     | Topic                                          |
 |-------|------------------|------------------------------------------------|
-|  9:00 | Chairs           | Welcome & Short Introduction. T2TRG/IETF work. |
-|  9:05 | Various          | Plenary (several talks being scheduled)        |
+|  8:30 | Chairs           | Welcome & Short Introduction. T2TRG/IETF work. |
+|  8:35 | Various          | Plenary (several talks being scheduled)        |
+|       | Jungha Hong      | [Problem Statement of IoT integrated with Edge Computing][t2trg-iot-edge-prob] |
 |       | Erik Nordmark    | [Computing at the Edge][t2trg-computing-edge]  |
 |       | Thorsten Dahm    | [Automated IoT Security][auto-iot-sec]         |
 | 10:00 | Various          | Breakouts (see below)                          |
@@ -49,3 +50,4 @@ slot, or want to run a breakout, please email the [chairs](mailto:t2trg-chairs@i
 [WISHI]: http://wishi.space/ "Work on IoT Semantic/Hypermedia Interoperability | wishi"
 [auto-iot-sec]: https://tools.ietf.org/html/draft-garciamorchon-t2trg-automated-iot-security-01
 [t2trg-computing-edge]: https://tools.ietf.org/html/draft-nordmark-t2trg-computing-edge-00
+[t2trg-iot-edge-prob]: https://tools.ietf.org/html/draft-hong-iot-edge-computing-01
