@@ -32,6 +32,9 @@ slot, or want to run a breakout, please email the [chairs](mailto:t2trg-chairs@i
 |       | Erik Nordmark    | [Computing at the Edge][t2trg-computing-edge]  |
 |       | Thorsten Dahm    | [Automated IoT Security][auto-iot-sec]         |
 |       | Mohit Sethi      | [Enabling Network Access for IoT devices from the Cloud][t2trg-network-iot-access] |
+|       |                  | Additional security topics (if there's time; alternatively in security breakout):  |
+|       | John Mattsson    | [CBOR certificates][ace-cbor-certs]            |
+|       |Syed Muhammad Sajjad| An Architecture for Collaborative Security and Proactive Defense against IoT Botnets |
 |  9:40 |                  | Breakout planning                              |
 |  9:50 |                  | Break for breakouts                            |
 | 10:00 | Various          | Breakouts (see below)                          |
@@ -56,3 +59,4 @@ slot, or want to run a breakout, please email the [chairs](mailto:t2trg-chairs@i
 [t2trg-computing-edge]: https://tools.ietf.org/html/draft-nordmark-t2trg-computing-edge-00
 [t2trg-iot-edge-prob]: https://tools.ietf.org/html/draft-hong-iot-edge-computing-01
 [t2trg-network-iot-access]: https://tools.ietf.org/html/draft-st-t2trg-nw-access-01
+[ace-cbor-certs]: https://tools.ietf.org/html/draft-raza-ace-cbor-certificates-00
